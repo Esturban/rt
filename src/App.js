@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Logo style={{ height: 200 }} />
+        <img src="/logo.svg" className="App-logo" alt="logo" />
         <h1>React Posts Sharer</h1>
         <h2>Bad man rude boy</h2>
       </header>
